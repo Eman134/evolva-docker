@@ -1,0 +1,6 @@
+[submodule "evolva-core"]
+	path = evolva-core
+	url = https://github.com/Eman134/evolva-core
+[submodule "evolva-panel"]
+	path = evolva-panel
+	url = https://github.com/Eman134/evolva-panel
