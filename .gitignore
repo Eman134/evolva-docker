@@ -1,0 +1,29 @@
+# Arquivo de variáveis de ambiente (não versionar com credenciais reais)
+.env
+
+# Pastas de cache temporário
+node_modules/
+dist/
+.cache/
+
+# Volumes e dados persistentes
+pgdata/
+*.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Docker arquivos desnecessários
+*.tar
